@@ -43,17 +43,13 @@ CSS internal ditambahkan di dalam bagian `<head>` menggunakan tag `<style>`. Pen
 Inline CSS ditambahkan langsung pada elemen HTML. Pada praktikum, paragraf diberi pengaturan rata tengah dan warna teks.
 
 **Hasil:** hanya elemen yang diberi inline CSS yang menerima pengaturan tersebut.
-
-**Screenshot:**  
-`![Inline CSS](images/03-inline-css.png)`
+![gambar3.png](ss/gambar3.png)`
 
 ### 4. Membuat CSS Eksternal
 Dibuat file `style_eksternal.css` yang terpisah dari file HTML. File tersebut kemudian dihubungkan menggunakan tag `<link>` pada bagian `<head>`.
 
 **Hasil:** tampilan halaman dapat diatur melalui file CSS yang terpisah dari HTML.
-
-**Screenshot:**  
-`![CSS Eksternal](images/04-css-eksternal.png)`
+![gambar4.pngl](ss/gambar4.png)`
 
 ### 5. Menambahkan CSS Selector
 Pada file CSS eksternal digunakan ID Selector dan Class Selector.
@@ -61,9 +57,7 @@ Pada file CSS eksternal digunakan ID Selector dan Class Selector.
 ID Selector menggunakan tanda `#` dan diterapkan pada elemen dengan ID `intro`. Class Selector menggunakan tanda `.` dan diterapkan pada class `button` serta `btn-primary`.
 
 **Hasil:** bagian `intro` dan tombol mendapatkan tampilan khusus sesuai aturan CSS.
-
-**Screenshot:**  
-`![ID dan Class Selector](images/05-selector.png)`
+![gambar5](ss/gambar6.png)`
 
 ## Soal dan Jawaban
 
