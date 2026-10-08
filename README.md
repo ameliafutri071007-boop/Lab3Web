@@ -105,25 +105,5 @@ maka warna teks yang ditampilkan adalah merah karena selector ID lebih spesifik 
 ## Kesimpulan
 Praktikum 3 memberikan pemahaman tentang penggunaan CSS untuk mengatur tampilan halaman web. Pada praktikum ini dipelajari CSS internal, inline, dan eksternal serta penggunaan selector elemen, ID, dan class. Dengan CSS, tampilan HTML menjadi lebih terstruktur, menarik, dan mudah diatur.
 
-## Validasi CSS
-Validasi CSS dapat dilakukan menggunakan CSS Validator dari W3C:
-https://jigsaw.w3.org/css-validator/
 
-## Dokumentasi
-Sesuai instruksi praktikum, setiap perubahan sebaiknya didokumentasikan menggunakan screenshot dan dimasukkan ke repository. Tambahkan folder `images/` jika ingin menyimpan screenshot hasil praktikum.
-
-Contoh:
-```text
-Lab3Web/
-├── images/
-│   ├── 01-html-dasar.png
-│   ├── 02-css-internal.png
-│   ├── 03-inline-css.png
-│   ├── 04-css-eksternal.png
-│   └── 05-selector.png
-├── index.html
-├── lab2_css_eksternal.html
-├── style_eksternal.css
-└── README.md
-```
 
