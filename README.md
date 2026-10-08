@@ -37,9 +37,7 @@ Membuat dokumen HTML dasar dengan judul **CSS Dasar**, header, navigation, parag
 CSS internal ditambahkan di dalam bagian `<head>` menggunakan tag `<style>`. Pengaturan diterapkan pada body, header, heading, dan teks italic.
 
 **Hasil:** tampilan halaman berubah setelah CSS internal diterapkan.
-
-**Screenshot:**  
-`![CSS Internal](images/02-css-internal.png)`
+![gambar2.png](ss/gambar2.png)`
 
 ### 3. Menambahkan Inline CSS
 Inline CSS ditambahkan langsung pada elemen HTML. Pada praktikum, paragraf diberi pengaturan rata tengah dan warna teks.
