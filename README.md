@@ -31,7 +31,7 @@ Lab3Web/
 Membuat dokumen HTML dasar dengan judul **CSS Dasar**, header, navigation, paragraf, dan tombol informasi. Dokumen ini menjadi dasar untuk menerapkan CSS.
 
 **Hasil:** halaman HTML berhasil dibuat dan dapat dibuka melalui browser.
-`![gambar1](images/01-html-dasar.png)`
+`![gambar1.png](images/01-html-dasar.png)`
 
 ### 2. Mendeklarasikan CSS Internal
 CSS internal ditambahkan di dalam bagian `<head>` menggunakan tag `<style>`. Pengaturan diterapkan pada body, header, heading, dan teks italic.
