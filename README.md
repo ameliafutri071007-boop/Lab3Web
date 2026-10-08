@@ -31,24 +31,28 @@ Lab3Web/
 Membuat dokumen HTML dasar dengan judul **CSS Dasar**, header, navigation, paragraf, dan tombol informasi. Dokumen ini menjadi dasar untuk menerapkan CSS.
 
 **Hasil:** halaman HTML berhasil dibuat dan dapat dibuka melalui browser.
+
 ![gambar1.png](ss/gambar1.png)`
 
 ### 2. Mendeklarasikan CSS Internal
 CSS internal ditambahkan di dalam bagian `<head>` menggunakan tag `<style>`. Pengaturan diterapkan pada body, header, heading, dan teks italic.
 
 **Hasil:** tampilan halaman berubah setelah CSS internal diterapkan.
+
 ![gambar2.png](ss/gambar2.png)`
 
 ### 3. Menambahkan Inline CSS
 Inline CSS ditambahkan langsung pada elemen HTML. Pada praktikum, paragraf diberi pengaturan rata tengah dan warna teks.
 
 **Hasil:** hanya elemen yang diberi inline CSS yang menerima pengaturan tersebut.
+
 ![gambar3.png](ss/gambar3.png)`
 
 ### 4. Membuat CSS Eksternal
 Dibuat file `style_eksternal.css` yang terpisah dari file HTML. File tersebut kemudian dihubungkan menggunakan tag `<link>` pada bagian `<head>`.
 
 **Hasil:** tampilan halaman dapat diatur melalui file CSS yang terpisah dari HTML.
+
 ![gambar4.pngl](ss/gambar4.png)`
 
 ### 5. Menambahkan CSS Selector
@@ -57,6 +61,7 @@ Pada file CSS eksternal digunakan ID Selector dan Class Selector.
 ID Selector menggunakan tanda `#` dan diterapkan pada elemen dengan ID `intro`. Class Selector menggunakan tanda `.` dan diterapkan pada class `button` serta `btn-primary`.
 
 **Hasil:** bagian `intro` dan tombol mendapatkan tampilan khusus sesuai aturan CSS.
+
 ![gambar5](ss/gambar6.png)`
 
 ## Soal dan Jawaban
